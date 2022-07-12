@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestCasePackageAdvance.TC002_CheckBoxAndRadioButton"/>
+      <class name="TestCasePackageAdvance.TC004_DropDown"/>
+      <class name="TestCasePackageAdvance.TC001_LocatorAdvanceTestCase"/>
+      <class name="TestCasePackageAdvance.TC006_Scroll"/>
+      <class name="TestCasePackageAdvance.TC005_Refresh"/>
+      <class name="TestCasePackageAdvance.TC003_PageTitleAndSecuredPage"/>
+      <class name="driverPackage.BaseDriver"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

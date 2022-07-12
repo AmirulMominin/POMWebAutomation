@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="12" total="19" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-13T03:39:03 BDT" name="Suite" finished-at="2022-07-13T03:41:37 BDT" duration-ms="154055">
+    <groups>
+    </groups>
+    <test started-at="2022-07-13T03:39:03 BDT" name="Test" finished-at="2022-07-13T03:41:37 BDT" duration-ms="154055">
+      <class name="TestCasePackageAdvance.TC006_Scroll">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC006_Scroll@7922d892]" started-at="2022-07-13T03:40:20 BDT" name="setUp" finished-at="2022-07-13T03:40:22 BDT" duration-ms="2316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="scrollBottomTopSpecificIteam()[pri:0, instance:TestCasePackageAdvance.TC006_Scroll@7922d892]" started-at="2022-07-13T03:40:22 BDT" name="scrollBottomTopSpecificIteam" finished-at="2022-07-13T03:40:52 BDT" duration-ms="30106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollBottomTopSpecificIteam -->
+      </class> <!-- TestCasePackageAdvance.TC006_Scroll -->
+      <class name="TestCasePackageAdvance.TC002_CheckBoxAndRadioButton">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC002_CheckBoxAndRadioButton@44d52de2]" started-at="2022-07-13T03:38:54 BDT" name="setUp" finished-at="2022-07-13T03:39:03 BDT" duration-ms="9004" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC002_CheckBoxAndRadioButton@44d52de2]" started-at="2022-07-13T03:39:03 BDT" name="setUp" finished-at="2022-07-13T03:39:05 BDT" duration-ms="2168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="checkBoxAndRadio()[pri:0, instance:TestCasePackageAdvance.TC002_CheckBoxAndRadioButton@44d52de2]" started-at="2022-07-13T03:39:06 BDT" name="checkBoxAndRadio" finished-at="2022-07-13T03:39:20 BDT" duration-ms="14668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkBoxAndRadio -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCasePackageAdvance.TC002_CheckBoxAndRadioButton@44d52de2]" started-at="2022-07-13T03:41:42 BDT" name="close" finished-at="2022-07-13T03:41:42 BDT" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestCasePackageAdvance.TC002_CheckBoxAndRadioButton -->
+      <class name="TestCasePackageAdvance.TC003_PageTitleAndSecuredPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC003_PageTitleAndSecuredPage@345f69f3]" started-at="2022-07-13T03:41:16 BDT" name="setUp" finished-at="2022-07-13T03:41:18 BDT" duration-ms="2720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifySecurity()[pri:0, instance:TestCasePackageAdvance.TC003_PageTitleAndSecuredPage@345f69f3]" started-at="2022-07-13T03:41:18 BDT" name="verifySecurity" finished-at="2022-07-13T03:41:23 BDT" duration-ms="5027" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySecurity -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC003_PageTitleAndSecuredPage@345f69f3]" started-at="2022-07-13T03:41:23 BDT" name="setUp" finished-at="2022-07-13T03:41:26 BDT" duration-ms="2142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTitle()[pri:0, instance:TestCasePackageAdvance.TC003_PageTitleAndSecuredPage@345f69f3]" started-at="2022-07-13T03:41:26 BDT" name="verifyTitle" finished-at="2022-07-13T03:41:37 BDT" duration-ms="11441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+      </class> <!-- TestCasePackageAdvance.TC003_PageTitleAndSecuredPage -->
+      <class name="TestCasePackageAdvance.TC001_LocatorAdvanceTestCase">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC001_LocatorAdvanceTestCase@69f1a286]" started-at="2022-07-13T03:39:49 BDT" name="setUp" finished-at="2022-07-13T03:39:51 BDT" duration-ms="2690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Locator()[pri:0, instance:TestCasePackageAdvance.TC001_LocatorAdvanceTestCase@69f1a286]" started-at="2022-07-13T03:39:51 BDT" name="Locator" finished-at="2022-07-13T03:40:20 BDT" duration-ms="28007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Locator -->
+      </class> <!-- TestCasePackageAdvance.TC001_LocatorAdvanceTestCase -->
+      <class name="TestCasePackageAdvance.TC004_DropDown">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC004_DropDown@3688eb5b]" started-at="2022-07-13T03:39:20 BDT" name="setUp" finished-at="2022-07-13T03:39:23 BDT" duration-ms="2213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectValueFromDropDown()[pri:0, instance:TestCasePackageAdvance.TC004_DropDown@3688eb5b]" started-at="2022-07-13T03:39:23 BDT" name="selectValueFromDropDown" finished-at="2022-07-13T03:39:49 BDT" duration-ms="26239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectValueFromDropDown -->
+      </class> <!-- TestCasePackageAdvance.TC004_DropDown -->
+      <class name="TestCasePackageAdvance.TC005_Refresh">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCasePackageAdvance.TC005_Refresh@457c9034]" started-at="2022-07-13T03:40:52 BDT" name="setUp" finished-at="2022-07-13T03:40:54 BDT" duration-ms="2412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="refreshAndNavigation()[pri:0, instance:TestCasePackageAdvance.TC005_Refresh@457c9034]" started-at="2022-07-13T03:40:54 BDT" name="refreshAndNavigation" finished-at="2022-07-13T03:41:16 BDT" duration-ms="21335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refreshAndNavigation -->
+      </class> <!-- TestCasePackageAdvance.TC005_Refresh -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
